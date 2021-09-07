@@ -1,4 +1,4 @@
-/* Zavala Irvin Matricula:01270771
+/* Zavala Irvin 
 Programa que calcula angulo de recta*/
 #include<stdio.h>
 #include<math.h>
